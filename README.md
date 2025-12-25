@@ -12,10 +12,10 @@
 
 | Название проекта | Описание | Стек технологий |
 |------------------|----------|-----------------|
-| [Оптимизация производственных расходов металлургического комбината](https://github.com/OlgaBogatyreva/steel_optimization) | Построение модели для предсказания температуры сплава | Python, Pandas, Scikit-learn, Matplotlib |
-| [HR-аналитика](https://github.com/OlgaBogatyreva/hr_analytics) | Предсказание удовлетворенности и увольнения сотрудника | Python, SQL, Statsmodels, Seaborn |
-| [Поиск токсичных комментариев](https://github.com/OlgaBogatyreva/toxic_comments) | Определение токсичных комментариев |  |
-| [Выбор локации для скважины](https://github.com/OlgaBogatyreva/selecting_location) | Посмтроение модели для определения региона, где добыча принесёт наибольшую прибыль. | |
+| [Оптимизация производственных расходов металлургического комбината](https://github.com/OlgaBogatyreva/steel_optimization) | Построение модели для предсказания температуры сплава | Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Catboost |
+| [HR-аналитика](https://github.com/OlgaBogatyreva/hr_analytics) | Предсказание удовлетворенности и увольнения сотрудника | Python, Pandas, Scikit-learn, Numpy, Seaborn, Matplotlib |
+| [Поиск токсичных комментариев](https://github.com/OlgaBogatyreva/toxic_comments) | Определение токсичных комментариев | Python, Pandas, Scikit-learn, nltk |
+| [Выбор локации для скважины](https://github.com/OlgaBogatyreva/selecting_location) | Посмтроение модели для определения региона, где добыча принесёт наибольшую прибыль. | Python, Pandas, Scikit-learn, Numpy, Seaborn, Matplotlib |
 
 
 <!--
